@@ -43,7 +43,21 @@ This project helps automatically detect spam messages using ML techniques.
 ---
 
 ## 🔥 Machine Learning Workflow
-
+Data Collection
+↓
+Data Cleaning
+↓
+Text Preprocessing
+↓
+TF-IDF Vectorization
+↓
+Train-Test Split
+↓
+Model Training (Naive Bayes)
+↓
+Evaluation
+↓
+Prediction
 
 ---
 
@@ -63,4 +77,3 @@ This project helps automatically detect spam messages using ML techniques.
 
 ---
 
-## 📁 Project Structure
